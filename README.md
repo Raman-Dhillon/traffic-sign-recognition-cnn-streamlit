@@ -29,6 +29,11 @@ NumPy / Pandas
 
 ResNet (pretrained CNN)
 
+# Training and Validation Accuracy Graph
+
+# Training and validation Loss Graph
+
+
 # 🚀 How to Run the App Locally
 pip install -r requirements.txt
 
