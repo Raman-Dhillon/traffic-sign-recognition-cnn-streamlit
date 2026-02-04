@@ -30,10 +30,9 @@ NumPy / Pandas
 ResNet (pretrained CNN)
 
 # Training and Validation Accuracy Graph
-
+![traffic-sign-recognition-cnn-streamlit](/traffic1.png)
 # Training and validation Loss Graph
-
-
+![traffic-sign-recognition-cnn-streamlit](/traffic2.png)
 # 🚀 How to Run the App Locally
 pip install -r requirements.txt
 
